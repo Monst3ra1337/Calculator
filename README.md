@@ -1,1 +1,4 @@
-# JS-Calculator-made-by-me
+# Calculator made with:
+# HTML
+# CSS 
+# JavaScript
